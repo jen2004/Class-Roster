@@ -5,7 +5,7 @@
 
 enum DegreeProgram { SECURITY, NETWORK, SOFTWARE };
 
-/*Parallel array outputs a string for each book type*/
+/*Parallel array outputs a string for each degree type*/
 static const std::string degreeProgramStrings[] = { "SECURITY", "NETWORK", "SOFTWARE" };
 
 #endif
