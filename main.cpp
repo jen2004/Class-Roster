@@ -52,14 +52,14 @@ int main()
     }
     cout << std::endl;
 
-    /*This removes sudent A3 and prints all remaining students*/
+    /*This removes student A3 and prints all remaining students*/
     cout << "Remove student with ID: A3" << std::endl;
     classRoster.remove("A3");
     cout << std::endl;
     classRoster.printAll();
     cout << endl;
 
-    /*This tries to remove sudent A3 again and an error message is produced when A3 is not found*/
+    /*This tries to remove student A3 again and an error message is produced when A3 is not found*/
     cout << "Remove student with ID: A3" << std::endl;
     classRoster.remove("A3");
     cout << std::endl;
