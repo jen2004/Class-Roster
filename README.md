@@ -5,4 +5,6 @@ This project is a C++ application designed to maintain a current roster of stude
 The program reads a predefined list of five students, parses the data, and creates corresponding student objects. It utilizes function calls to manipulate and analyze the data. Key functionality includes displaying all students, filtering by degree program, validating email addresses, and calculating the average number of days spent on courses.
 All outputs are directed to the console.
 
+To run this application, open the code files in Visual Studio Code 2022. Then, start the application by clicking the green arrow.
+
 For the complete project requirements, please refer to the "Task Description" file.
