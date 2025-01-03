@@ -8,3 +8,5 @@ All outputs are directed to the console.
 To run this application, open the code files in Visual Studio Code 2022. Then, start the application by clicking the green arrow.
 
 For the complete project requirements, please refer to the "Task Description" file.
+
+![Screenshot of Output](https://github.com/user-attachments/assets/65bb180c-055c-4cdb-b07b-316d088b3913)
